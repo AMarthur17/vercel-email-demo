@@ -1,0 +1,12 @@
+{
+  "name": "vercel-email-demo",
+  "version": "1.0.0",
+  "description": "Serverless function para envio de email via Vercel + Nodemailer",
+  "main": "api/enviar-email.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
